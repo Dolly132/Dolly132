@@ -26,3 +26,4 @@
 ![CSS](https://img.shields.io/badge/Css-orange)
 ![Sourcepawn](https://img.shields.io/badge/Sourcepawn-orange)
 
+![Profile views](https://komarev.com/ghpvc/?username=Dolly132)
