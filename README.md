@@ -9,7 +9,7 @@
 ## GitHub Stats
 ![Stats](./profile/stats.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dolly132&layout=compact)](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dolly132&layout=compact)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dolly132&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dolly132)
 
