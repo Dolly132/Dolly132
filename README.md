@@ -7,9 +7,9 @@
 - 🚀 Building cool stuff
 
 ## GitHub Stats
-![Stats](./profile/stats.svg)
+![Stats](https://github-readme-stats-theta-three-21.vercel.app/api?username=Dolly132)
 
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dolly132&layout=compact)
+![Top Languages](https://github-readme-stats-theta-three-21.vercel.app/api/top-langs/?username=Dolly132)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dolly132)
 
